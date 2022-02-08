@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://jonasgeuens.be/images/logo.gif" width="500"/>
+</div>
 
 <!--
 **JonasGe/JonasGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
